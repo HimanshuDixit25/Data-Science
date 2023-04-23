@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "model"
+		},
+		{
+			"path": "client"
+		},
+		{
+			"path": "myserver"
+		},
+		{
+			"name": "myfolder",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "client"
+	}
+}
